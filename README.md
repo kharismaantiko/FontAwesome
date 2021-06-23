@@ -1,0 +1,1 @@
+# FontAwesome 5.13.0
